@@ -471,8 +471,13 @@ button {
      margin: 0;
 }
 
-.team_img4 figure img {
+.about_right figure img {
      width: 100%;
+}
+
+.team_img4 {
+     width: 748px;
+     height: 748px;
 }
 
 .about .about_img figure {
