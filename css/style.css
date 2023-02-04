@@ -459,15 +459,20 @@ button {
      background-color: #fdfdfd;
 }
 
+.team {
+     padding: 130px 0 0px 0;
+     background-color: #fdfdfd;  
+}
+
 .about .about_img {
      margin-left: -76px;
 }
 
-.team_img4 {
+.about_right {
      padding-top: 30px;
 }
 
-.team_img4 figure {
+.about_right figure {
      margin: 0;
 }
 
